@@ -1,0 +1,33 @@
+/* Asegurarnos de agregar estas lineas a nuestro css en la parte superior*/
+meta.foundation-version {
+  font-family: "/5.5.1/"; 
+}
+
+meta.foundation-data-attribute-namespace {
+  font-family: false; 
+}
+
+header {
+  text-align: center;
+  border-bottom: 1px solid #CDCDCD;
+  margin-bottom: 10px;
+}
+
+header h1 {
+  margin: 10px;
+  color: #7B7B7B;
+  font-size: 28px;
+}
+
+.panel {
+  border: 2px solid #CDCDCD;
+  background: #F5F5F5;
+}
+
+.panel-inner {
+  padding: 30px 60px;
+}
+
+.panel-inner p {
+  padding-bottom: 20px;
+}
